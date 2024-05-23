@@ -16,7 +16,7 @@ These instructions will get you to setup the project, install sdk and add packag
 1.  Install .net SDK 7<br>
 [Download .NET SDK here.](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
 2.  Create new Web API's project (Please create main project with empty and add below to the main project)<br>
-`dotnet new webapi –-name YARP.Proxy`<br>
+`dotnet new webapi –-name Global-Exception`<br>
 3. Swagger UI: ([http://localhost:5230/swagger/index.html](http://localhost:5250/swagger/index.html))
 ## Languages and Tools
 <div>
