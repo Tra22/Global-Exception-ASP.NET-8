@@ -13,7 +13,7 @@ These instructions will get you to setup the project, install sdk and add packag
 - .NET 8.x SDK 
 
 ### Installing
-1.  Install .net SDK 7<br>
+1.  Install .net SDK 8<br>
 [Download .NET SDK here.](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
 2.  Create new Web API's project (Please create main project with empty and add below to the main project)<br>
 `dotnet new webapi –-name Global-Exception`<br>
