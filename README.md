@@ -10,7 +10,7 @@ These instructions will get you to setup the project, install sdk and add packag
 
 ### Prerequisites
 - Visual Studio 2022 or higher 
-- .NET 7.x SDK 
+- .NET 8.x SDK 
 
 ### Installing
 1.  Install .net SDK 7<br>
